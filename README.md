@@ -149,8 +149,6 @@ Durante o desenvolvimento do Dinosaur Museum, alguns desafios foram enfrentados:
 
 ---
 
----
-
 ## 👨‍💻 Autor
 
 **Kaio Gabriel**
