@@ -17,6 +17,7 @@ A aplicação pode ser executada no Editor do Unity (PC) e está preparada para 
 - Organizar corretamente a hierarquia do projeto
 - Preparar build para Android (Meta Quest)
 - Documentar o projeto adequadamente
+- Adicionar interação com objetos
 
 ---
 
@@ -142,7 +143,6 @@ Durante o desenvolvimento do Dinosaur Museum, alguns desafios foram enfrentados:
 
 ## 🚀 Melhorias Futuras
 
-- Adicionar sistema de interação com objetos
 - Inserir áudio ambiente imersivo
 - Criar sistema de informações interativas para cada dinossauro
 - Implementar sistema de locomoção mais avançado
